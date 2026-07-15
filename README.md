@@ -49,9 +49,9 @@
 
 <div data-importer="stats" align="center">
   <img src="https://githubusercontent.com" height="150" alt="stats graph" style="margin: 10px;" />
-   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://githubusercontent.com" height="150" alt="languages graph" style="margin: 10px;" />
 </div>
+
 
 <br clear="both">
 
