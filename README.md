@@ -43,6 +43,7 @@
   <a href="https://www.linkedin.com/in/nicolas-da-silva-7368b5246/" target="_blank"><img src="https://img.shields.io/static/v1?message=Linkedin&logo=Linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Linkedin logo"  />
   <a href="https://ticco.itch.io/" target="_blank"><img src="https://img.shields.io/static/v1?message=Itch.io&logo=itch.io&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <a href = "mailto:n1co.4rts@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <a href="https://nicolassilvaportfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/static/v1?message=netlify&logo=netlify&label=&color=05BDBA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
 </div>
 
 ###
