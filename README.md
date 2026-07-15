@@ -49,11 +49,13 @@
 
 <div align="center">
 
-<img height="150"
-src="https://github-readme-stats.vercel.app/api?username=Nicolass-da-Silva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img
+height="150"
+src="https://raw.githubusercontent.com/Nicolass-da-Silva/Nicolass-da-Silva/stats-output/stats.svg"/>
 
-<img height="150"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolass-da-Silva&layout=compact&theme=dracula&count_private=true"/>
+<img
+height="150"
+src="https://raw.githubusercontent.com/Nicolass-da-Silva/Nicolass-da-Silva/languages-output/languages.svg"/>
 
 </div>
 
