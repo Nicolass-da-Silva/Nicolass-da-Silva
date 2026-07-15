@@ -48,8 +48,11 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://githubusercontent.com" height="150" alt="stats graph" style="margin: 10px;" />
-  <img src="https://githubusercontent.com" height="150" alt="languages graph" style="margin: 10px;" />
+  <!-- Card de Estatísticas Gerais (Forçando a leitura direta da branch) -->
+  <img src="https://github.com" height="150" alt="stats graph" style="margin: 10px;" />
+  
+  <!-- Card de Linguagens Utilizadas (Forçando a leitura direta da branch) -->
+  <img src="https://github.com" height="150" alt="languages graph" style="margin: 10px;" />
 </div>
 
 
